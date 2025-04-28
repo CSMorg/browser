@@ -1,7 +1,5 @@
-// src/hello.c
-
 #include <stdio.h>
 
-void hello() {
-    printf("Hello from C code!\n");
+void hello_from_c() {
+    printf("Hello from C!\n");
 }
